@@ -20,7 +20,7 @@ A simple Express.js server that fetches posts from [JSONPlaceholder](https://jso
 
 ```bash
 # Start the server
-npm start
+node index.js
 ```
 
 The server will start on `http://localhost:8001`
