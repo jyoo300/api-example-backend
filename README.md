@@ -4,7 +4,7 @@ A simple Express.js server that fetches posts from [JSONPlaceholder](https://jso
 
 ## Features
 
-- Express.js server running on port 3000
+- Express.js server running on port 8001
 - CORS enabled for cross-origin requests
 - `/posts` endpoint that fetches data from JSONPlaceholder API
 - Error handling for failed requests
@@ -23,7 +23,7 @@ A simple Express.js server that fetches posts from [JSONPlaceholder](https://jso
 npm start
 ```
 
-The server will start on `http://localhost:3000`
+The server will start on `http://localhost:8001`
 
 ## API Endpoints
 
@@ -31,7 +31,7 @@ The server will start on `http://localhost:3000`
 
 ## Connection to Expo App
 
-The Expo app connects to this backend at `http://localhost:3000/posts` to fetch and display the posts data.
+The Expo app connects to this backend at `http://localhost:8001/posts` to fetch and display the posts data.
 
 ## File Structure
 
