@@ -2,6 +2,9 @@
 
 A simple Express.js server that fetches posts from [JSONPlaceholder](https://jsonplaceholder.typicode.com/posts) and serves them to the Expo app.
 
+## Getting starting w/Express
+[Express Guide](https://expressjs.com/en/starter/installing.html)
+
 ## Features
 
 - Express.js server running on port 8001
